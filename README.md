@@ -45,8 +45,6 @@ The algorithm consists of three key components:
 ### 3️⃣ Character Recognition
 - A uniform recognition method extracts the plate number from segmented characters.
 
-```
-
 ## 📝 License
 This project is open-source and available under the [MIT License](LICENSE).
 
